@@ -1,6 +1,9 @@
 # algo3-tp1
 
 
+## Enunicado
+El enunciado de este proyecto está en el archivo "tp1.pdf"
+
 ## Compilacion rapida
 Para compilar corra los siguientes comandos, estos generan los 5 ejecutables en la subcarpeta test
 
